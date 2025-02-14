@@ -26,3 +26,14 @@ This assignment provided valuable experience in **systems programming and shell 
 I successfully implemented all required features of `wsh`, passing **all test cases**, and received **100% on the assignment**. This project strengthened my understanding of **process control, shell internals, and Unix system programming**.  
 
 ---  
+
+## 📟 How to Run
+To run this shell, simply clone this repository to anywhere on your computer and run ./wsh. (You need to be in a unix environment or running bash, zsh, or something similar).
+
+Once you've ran the shell, then you can do whatever there is to do on your previous shell!
+```bash
+[hdoll@royal-22] (33)$ ./wsh
+wsh> echo hello world
+hello world
+wsh>
+```
