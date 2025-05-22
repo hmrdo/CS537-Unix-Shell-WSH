@@ -1,4 +1,4 @@
-# CS537 Fall 2024 - Project 3  
+# Unix Shell
 
 ## 🔍 Problem Statement  
 In this project, I implemented a Unix shell called **`wsh`**, capable of running both **interactive and batch modes**. The shell supports:  
